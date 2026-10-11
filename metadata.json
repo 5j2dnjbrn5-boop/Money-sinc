@@ -1,0 +1,6 @@
+{
+  "name": "MoneySync — Personal Finance OS",
+  "description": "ระบบบันทึกรายรับรายจ่ายและการเงินส่วนบุคคลระยะยาว จัดการงบประมาณ บัญชี เป้าหมาย และวิเคราะห์ย้อนหลังหลายปี",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
